@@ -16,7 +16,7 @@
   <p>Descricao</p>
 </body>
 </html>
-    <img src="nomedoarquivo.jpeg" alt="Trote: descricao da imagem" width="600" height="400">
+    <img src="nomedoarquivo.jpeg" alt="desenho: descricao da imagem" width="600" height="400">
     <p>Texto da imagem<p>
 </body>
 </html>
